@@ -1,0 +1,42 @@
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Quantum Bot.exe.config
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Quantum Bot.exe
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Quantum Bot.pdb
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\ConcurrentCollections.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.CommandsNext.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.Interactivity.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Buffers.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Memory.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Threading.Channels.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\ConcurrentCollections.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.CommandsNext.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.Interactivity.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Buffers.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Memory.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Threading.Channels.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\obj\Debug\Quantum Bot.csproj.AssemblyReference.cache
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\obj\Debug\Quantum Bot.csproj.CoreCompileInputs.cache
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\obj\Debug\Quantum Bot.csproj.CopyComplete
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\obj\Debug\Quantum Bot.exe
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\obj\Debug\Quantum Bot.pdb
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.SlashCommands.dll
+C:\Users\bronson brown\source\repos\Quantum Bot\Quantum Bot\bin\Debug\DSharpPlus.SlashCommands.xml
